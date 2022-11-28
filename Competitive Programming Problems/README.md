@@ -1,8 +1,6 @@
 
 # Competitive Programming Problems
 
-A brief description of what this project does and who it's for
-
 Problem 1 : Pallindrome Integer (Leetcode Easy level Question no 9)
 
 Problem 2 : Product of Array Except Self (Leetcode Medium Level Question no 238)
